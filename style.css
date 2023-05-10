@@ -1,0 +1,44 @@
+
+.container {
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 1000px;
+    height: 300px;
+
+}
+
+.container img {
+    width: 200px;
+    height: 200px;
+}
+
+.container2 {
+    background-color: lightpink;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 1000px;
+    height: 300px;
+}
+
+.container2 img {
+    width: 200px;
+    height: 200px;
+}
+
+.container3 {
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 1000px;
+    height: 300px;
+}
+
+
+.container3 img {
+    width: 200px;
+    height: 200px;
+}
